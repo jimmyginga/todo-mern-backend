@@ -4,7 +4,7 @@
   "description": "Server for MERN Boilerplate",
   "main": "server/index.js",
   "scripts": {
-    "start": "nodemon server/index.js",
+    "start": "node server/index.js",
     "lint": "eslint server",
     "lint:fix": "eslint server --fix",
     "test": "./scripts/test.sh",
